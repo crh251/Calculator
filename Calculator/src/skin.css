@@ -1,0 +1,45 @@
+#number{
+	-fx-background-color: FAFAFA;
+	-fx-font: lighter normal 15pt "Microsoft YaHei";
+}
+
+#operator{
+	-fx-background-color: E3E3E3;
+	-fx-font: lighter italic 11pt "Magneto";
+}
+
+#baseOperator{
+	-fx-background-color: E3E3E3;
+	-fx-font: lighter italic 11pt "Magneto";
+}
+
+.button{
+	-fx-background-radius: 0px;
+	-fx-text-fill: #000000;
+}
+
+#hint{
+	-fx-text-fill: #000000;
+	-fx-font: normal normal 17pt "Microsoft YaHei";
+}
+
+#res{
+	-fx-wrap-text: false;
+	-fx-alignment: center-right;
+}
+
+#CalcPane{
+	-fx-background-color: #EAEAEA;
+}
+
+#switchButton{
+	-fx-background-color:transparent;
+}
+
+.combo-box{
+	-fx-background-radius: 0px;
+	-fx-opacity: 0.7;
+	-fx-background-color:transparent;
+}
+
+
